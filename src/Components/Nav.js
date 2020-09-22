@@ -77,7 +77,7 @@ const homeNavLink = [
     links: [
       {
         name: 'Home',
-        url: 'http://example.com',
+        url: '/home',
         expandAriaLabel: 'Expand Home section',
         collapseAriaLabel: 'Collapse Home section',
       }
