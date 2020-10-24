@@ -3,7 +3,8 @@ import React from 'react'
 const New = () => {
     return (
         <div>
-            this is hot fix
+            this is hot fix new changes
+            <tp>test</tp>
         </div>
     )
 }
